@@ -1,0 +1,1 @@
+--Find the sales of cars that are electric by using a subquery
